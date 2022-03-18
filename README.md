@@ -1,6 +1,6 @@
 ## Hello 👋
 ***
-##### I am ** jisoo **
+### I am **Jisoo**
 ###### About me!
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
